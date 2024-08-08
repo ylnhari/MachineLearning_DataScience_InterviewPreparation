@@ -118,23 +118,23 @@
 		MLOps Engineer: Manages the deployment process, infrastructure, and integration with other systems.
 		
 # Exclusive Activities
-  These activities are primarily the responsibility of one specific role.
-  
-  Data Analysis and Insights: 
-  	Primarily Data Scientists. Extracting meaningful insights from data, storytelling with data, and communicating findings to stakeholders.
-  Model Architecture and Optimization: 
-  	Primarily ML Engineers. Designing complex model architectures, optimizing for speed and accuracy, and handling large-scale models.
-  ML Infrastructure and Pipelines: 
-  	Primarily MLOps Engineers. Building and managing ML platforms, CI/CD pipelines, and monitoring systems.
+	  These activities are primarily the responsibility of one specific role.
+	  
+	  Data Analysis and Insights: 
+	  	Primarily Data Scientists. Extracting meaningful insights from data, storytelling with data, and communicating findings to stakeholders.
+	  Model Architecture and Optimization: 
+	  	Primarily ML Engineers. Designing complex model architectures, optimizing for speed and accuracy, and handling large-scale models.
+	  ML Infrastructure and Pipelines: 
+	  	Primarily MLOps Engineers. Building and managing ML platforms, CI/CD pipelines, and monitoring systems.
 	
 # Understanding the Differences
-  While these roles share some overlapping responsibilities, the key differences lie in:
-  	Focus: The primary area of expertise and interest.
-  	Depth of Involvement: The level of detail and complexity involved in the task.
-  	Tools and Technologies: The preferred tools and technologies used to accomplish the task.
-  	For example, while all three roles might be involved in data preparation, a Data Scientist would focus on exploratory analysis and 
-  	feature engineering to extract insights, while an ML Engineer would concentrate on preparing the data for model training and optimization. 
-  	An MLOps Engineer would ensure data quality and consistency for reliable model training and deployment.   
+	  While these roles share some overlapping responsibilities, the key differences lie in:
+	  	Focus: The primary area of expertise and interest.
+	  	Depth of Involvement: The level of detail and complexity involved in the task.
+	  	Tools and Technologies: The preferred tools and technologies used to accomplish the task.
+	  	For example, while all three roles might be involved in data preparation, a Data Scientist would focus on exploratory analysis and 
+	  	feature engineering to extract insights, while an ML Engineer would concentrate on preparing the data for model training and optimization. 
+	  	An MLOps Engineer would ensure data quality and consistency for reliable model training and deployment.   
 
 
 # Types of questions to ask
